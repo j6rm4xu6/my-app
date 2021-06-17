@@ -1,4 +1,4 @@
-const foo = 1;
+const foo = 2;
 let bar = foo;
 bar = 9;
 console.log(foo,bar);
