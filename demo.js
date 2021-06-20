@@ -50,3 +50,22 @@ const atom = {
     console.log(copy);
     console.log(noA);
 }
+
+
+  // src/
+  //   pages/
+  //       {PageName}.tsx
+  //   components/
+  //       {function}/
+  //           {ComponentName}.tsx
+  //   contexts/
+  //       {Context}.tsx
+  //   hooks/
+  //       {function}.tsx
+  //   utils/
+  //       {function}.tsx
+  //   images/
+  //       {function}/
+  //           {image_name}.{png|jpg|...}
+  //   types/
+  //       {type}.d.ts 
